@@ -23,6 +23,6 @@
 
 Python, библиотеки : *Pandas*, SQL, Tableau, построение дашбордов
 
-[Дашборд по ТЗ] (https://public.tableau.com/app/profile/.85962202/viz/NPS_V2/Dashboard1?publish=yes)
+[Дашборд по ТЗ](https://public.tableau.com/app/profile/.85962202/viz/NPS_V2/Dashboard1?publish=yes)
 
 [Презентация - ответы на вопросы и выводы](https://drive.google.com/file/d/15HikldRn2kwTAP_9Hsd7Pvcwapb0Knw4/view?usp=sharing)
